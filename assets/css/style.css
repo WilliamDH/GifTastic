@@ -1,0 +1,30 @@
+body {
+	font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+	background-size: cover;
+	width: 80%;
+	margin: auto;
+	color: black;
+}
+
+.newButton {
+	margin: 5px;
+	padding: 5px;
+	font-size: 1em;
+}
+.newButton:hover {
+	background: rgb(186, 194, 157);
+}
+
+.input {
+	background-size: 100% 200px;
+	padding: 40px 80px 100px 40px;
+	text-align: center;
+}
+
+#add-category:hover {
+	background: rgb(211, 195, 195);
+}
+
+.gif {
+	border-radius: 4px;
+}
